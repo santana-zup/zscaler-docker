@@ -1,4 +1,4 @@
-# zscaler-docker
+# zscaler-docker [{deprecated} that procedure showns to be not functional as expected]
 (Unofficial) procedure to overpass Zscaler's certificate authority issues in Docker container images
 
 Ref.: http://www.cyberkeeda.com/2021/03/docker-ssl-error-x509-certificate.html
