@@ -1,6 +1,8 @@
 # zscaler-docker
 (Unofficial) procedure to overpass Zscaler's certificate authority issues in Docker container images
 
+Ref.: http://www.cyberkeeda.com/2021/03/docker-ssl-error-x509-certificate.html
+
 ## Tested operation system
 Ubuntu 20.04.3 LTS
 Docker Server 20.10.8
